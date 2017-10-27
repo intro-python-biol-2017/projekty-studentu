@@ -1,6 +1,8 @@
 # Semestrální projekt
 
-1. Vyberte data z [tohoto seznamu](http://vincentarelbundock.github.io/Rdatasets/datasets.html). **Pozor: data musí mít minimálně 100 řádků a 5 sloupců**
+Abyste mohli obhajovat projekt a dostat známku, musíte včas odevzdat alespoň polovinu domácích úkolů.
+
+1. Vyberte data z [tohoto seznamu](http://vincentarelbundock.github.io/Rdatasets/datasets.html). **Pozor: data musí mít minimálně 100 řádků a 5 sloupců.**
 1. Seznamte se s daty a zjistěte, jak by se dala vizualizovat.
 1. Data zpracujte v Pythonu a vytvořte grafy pomocí [`plotly`](https://plot.ly/python/).
 1. Vyvořte aplikaci pomocí [Dash](https://plot.ly/dash/), kde bude vizualizace Vaších dat.
@@ -11,4 +13,4 @@
         [`dash_core_components.RadioItem`](https://plot.ly/dash/dash-core-components/radioitems))
     1. Udělejte nasazení aplikace na [Heroku](https://github.com/anastazie/pyladies_data/blob/master/dash_app_deployment.md)
     1. Pošlete odkaz na Vaši aplikaci na nasta[zavináč]sedlakovi.org
-1. Na obhajobu projektu budete mít 5 minut.
+1. Na obhajobu projektu budete mít 5 minut. Na konci se rovnou dozvíte známku.
