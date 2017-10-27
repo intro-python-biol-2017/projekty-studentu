@@ -13,4 +13,4 @@ Abyste mohli obhajovat projekt a dostat známku, musíte včas odevzdat alespoň
         [`dash_core_components.RadioItem`](https://plot.ly/dash/dash-core-components/radioitems))
     1. Udělejte nasazení aplikace na [Heroku](https://github.com/anastazie/pyladies_data/blob/master/dash_app_deployment.md)
     1. Pošlete odkaz na Vaši aplikaci na nasta[zavináč]sedlakovi.org
-1. Na obhajobu projektu budete mít 5 minut. Na konci se rovnou dozvíte známku.
+1. Projekt budete obhajovat před ostatními studenty. Na obhajobu projektu budete mít 5 minut. Poté, co všichni během daného termínu odprezentují, se soukromě dozvíte známku.
